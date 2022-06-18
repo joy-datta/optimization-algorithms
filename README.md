@@ -9,3 +9,5 @@
 ![Gif](gifs/momentum.gif)
 **Nesterov Accelerated Gradient**
 ![Gif](gifs/nag.gif)
+**AdaGrad Optimization**
+![Gif](gifs/adagrad.gif)
