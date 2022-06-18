@@ -11,3 +11,5 @@
 ![Gif](gifs/nag.gif)
 **AdaGrad Optimization**
 ![Gif](gifs/adagrad.gif)
+**RMSProp Optimization**
+![Gif](gifs/rmsprop.gif)
