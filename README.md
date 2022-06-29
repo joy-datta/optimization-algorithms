@@ -13,3 +13,5 @@
 ![Gif](gifs/adagrad.gif)
 **RMSProp Optimization**
 ![Gif](gifs/rmsprop.gif)
+**Adam Optimization**
+![Gif](gifs/adam.gif)
