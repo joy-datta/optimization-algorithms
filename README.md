@@ -5,3 +5,5 @@
 ![Gif](GIFs/sgd_gif.gif)
 **Minibatch Gradient Descent**
 ![Gif](GIFs/mbsgd_gif.gif)
+**Final model**
+![Gif](GIFs/final_model.gif)
