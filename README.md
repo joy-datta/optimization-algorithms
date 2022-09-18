@@ -6,6 +6,7 @@ Tolerance was 0.03. Whenever MSE cost is <= 0.03, Gradient Descent stopped worki
 | Batch GD   | 2255             | 0.0299              |
 | Stochastic GD | 11            | 0.0301              |
 | Minibatch SGD | 106           | 0.0300              |
+
 Though it seems like SGD performs better than Batch GD, SGD approximates the gradient vector based on one random instance at each step. So the path will not be smooth. It's better to use a minibatch to approximate the gradient vector so that the path will be much smooth and it will settle much closer to the minimum, though it'll take a few more epochs to converge. Here are some GIFs to show how each of the three GD variants work. 
 ### Batch Gradient Descent
 ![Gif](GIFs/bgd_gif.gif)
